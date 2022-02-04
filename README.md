@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Poulette</h1>
 <h3 align="center">Engineering student and dev in my free time</h3>
 
-- 🔭 I’m currently working on **MCSS projects**
+- 🔭 I’m currently working on nothing
 
-- 💬 Ask me about **pineapple pizza & python**
+- 💬 Ask me about pineapple pizza & python
 
-- ⚡ Fun fact **I'm not actually a chicken**
+- ⚡ Fun fact I'm not actually a chicken
 
 
 <h3 align="left">Languages and Tools:</h3>
