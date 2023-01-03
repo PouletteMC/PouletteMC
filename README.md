@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulettemc&label=Profile%20views&color=0e75b6&style=flat" alt="poulettemc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulettemc" alt="poulettemc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulettemc&theme=onedark" alt="poulettemc" /></a> </p>
 
 - 🔭 I’m currently working on [MCSS Community projects](https://github.com/mcserversoft-community)
 
